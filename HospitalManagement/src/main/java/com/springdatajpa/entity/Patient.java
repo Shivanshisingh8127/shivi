@@ -19,7 +19,7 @@ public class Patient {
 	private Long id;
 	private String name;
 	private LocalDateTime birthdate;
-	private String emai;
+	private String email;
 	private String gender;
 	public Long getId() {
 		return id;
